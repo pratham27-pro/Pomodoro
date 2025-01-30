@@ -7,5 +7,6 @@ export default defineConfig({
   //base: '/GeekProject/'
   resolve: {
     extensions: ['.js', '.jsx']
-  }
+  },
+  base: './'
 })
